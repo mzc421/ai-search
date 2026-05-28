@@ -1,5 +1,6 @@
 # AI Search - 智能搜索引擎
 
+[从零搭建 AI 搜索引擎：我给装上了智能记忆，还踩了这些坑](https://mp.weixin.qq.com/s/M-Qc6P0q3i5CGVrio9oJng)
 一个基于 FastAPI + LangChain + Vue 3 构建的智能搜索引擎，结合 Tavily 搜索和 DeepSeek 大模型，为用户提供带引用的深度信息分析。
 
 ## 功能特性
